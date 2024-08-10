@@ -11,6 +11,12 @@ Table 1 para V3 e V4
 
 Table 2 para V5
 
+Análise:
+
+Coluna WPA é a diferença da probabilidade de vitória, com números negativos significando um aumento da probabilidade de vitória para o time de fora e números positivos aumento da probabilidade de vitória do time da casa.
+
+
+
 
 React:
 
